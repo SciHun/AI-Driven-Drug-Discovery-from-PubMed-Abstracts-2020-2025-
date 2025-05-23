@@ -1,6 +1,6 @@
 🧬 Finding New Drug Molecules from PubMed Abstracts
 
-I collaborated on this study with my final-term pharmacy students, 🔬Ali Levent Buldu. He actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
+I collaborated on this study with my final-term pharmacy student, 🔬Ali Levent Buldu. He actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
 
 In this project, we apply Natural Language Processing (NLP) and machine learning techniques to analyze scientific literature from PubMed, aiming to identify meaningful patterns and insights for drug discovery. The workflow includes data collection, text preprocessing, feature extraction, model development, and visualization of results.
 
