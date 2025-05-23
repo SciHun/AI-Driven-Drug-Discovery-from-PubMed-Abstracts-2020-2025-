@@ -16,7 +16,7 @@ This project uses NLP and biomedical databases to extract potential novel drug m
 - `src/`: Core Python scripts
 - `figures/`: Graphs and charts (e.g., confusion matrix, top molecules)
 - `results/`: Final CSV outputs
-- 
+
 ## 📦 Requirements
 See `requirements.txt`
 
